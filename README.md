@@ -1,102 +1,185 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:17263D,100:9A8055&height=220&section=header&text=ISLAM%20ASHRAF&fontSize=55&fontColor=E8E8E8&fontAlignY=38&desc=FOUNDER%20%26%20CEO%20%7C%20SAVIR%20TECHNOLOGY&descSize=16&descAlignY=58&descColor=D4C5A5&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=3500&pause=1000&color=C9B58C&center=true&vCenter=true&width=750&lines=Building+Ideas.+Engineering+Solutions.;Creating+Scalable+Digital+Products.;Leading+Innovation+at+Savir+Technology." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171044,45:54217D,100:F16B32&height=250&section=header&text=ISLAM%20ASHRAF&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=FOUNDER%20%26%20CEO%20%7C%20SAVIR%20TECHNOLOGY&descSize=16&descColor=FFFFFF&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
 
-**SOFTWARE ENGINEER · ENTREPRENEUR · SYSTEM ARCHITECT**
+<img src="https://savir-technology.com/assets/savir-logo-CU8D4NIv.png" width="185" alt="Savir Technology Official Logo"/>
 
 <br/>
 
-<a href="https://savir.site">
-<img src="https://img.shields.io/badge/SAVIR_TECHNOLOGY-Website-C9B58C?style=for-the-badge&labelColor=101828" />
+# ISLAM ASHRAF
+
+### Founder & CEO — Savir Technology
+
+**BUILDING IDEAS. ENGINEERING SOLUTIONS. CREATING IMPACT.**
+
+Software Developer · Entrepreneur · System Architect
+
+<br/>
+
+<a href="https://savir-technology.com">
+<img src="https://img.shields.io/badge/EXPLORE_SAVIR-Official_Website-54217D?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://wa.me/201037237626">
-<img src="https://img.shields.io/badge/CONTACT_ME-WhatsApp-25D366?style=for-the-badge&labelColor=101828" />
+<img src="https://img.shields.io/badge/CONTACT_ME-WhatsApp-F16B32?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="https://github.com/savir-technology">
-<img src="https://img.shields.io/badge/GITHUB-Profile-C9B58C?style=for-the-badge&logo=github&logoColor=white&labelColor=101828" />
+<img src="https://img.shields.io/badge/FOLLOW-ON_GITHUB-171044?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## THE EXECUTIVE PROFILE
+<div align="center">
 
-### About Islam
+## 01 — EXECUTIVE PROFILE
+
+### Technology Meets Vision.
+
+</div>
 
 I'm **Islam Ashraf**, Founder & CEO of **Savir Technology**.
 
-A technology entrepreneur and software developer focused on transforming business ideas into scalable digital products and complete software ecosystems.
+I'm a technology entrepreneur and software developer passionate about transforming ambitious ideas into scalable digital products and complete software ecosystems.
 
-My work combines software engineering, system architecture, product development, and business vision.
+My work combines engineering, product architecture, and business vision to create solutions that deliver real value.
 
-**My Focus**
+### What Drives Me
 
-- Building scalable mobile and web applications.
-- Designing robust backend architectures and APIs.
-- Developing complete business management ecosystems.
-- Creating technology products that solve real-world problems.
-- Leading digital product innovation from concept to deployment.
+- Building technology products from concept to deployment.
+- Designing scalable applications and backend systems.
+- Engineering complete digital business ecosystems.
+- Connecting innovative ideas with practical solutions.
+- Creating software that helps businesses grow.
 
 ---
 
-## TECHNOLOGY ECOSYSTEM
-
 <div align="center">
+
+## 02 — ENGINEERING & TECHNOLOGY
+
+*The tools behind the vision.*
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,firebase,react,js,html,css,git,github,vscode&theme=dark&perline=6" />
 
 </div>
 
----
+| DOMAIN | SPECIALIZATION |
+|---|---|
+| Mobile Engineering | Flutter & Dart |
+| Backend Engineering | PHP & REST APIs |
+| Database Systems | MySQL |
+| Cloud & Services | Firebase |
+| Web Development | React & JavaScript |
+| Architecture | Scalable Software Systems |
 
-## SIGNATURE PROJECTS
+---
 
 <div align="center">
 
-| PRODUCT | VISION |
-|:---:|:---|
-| **ROAQ** | Multi-vendor delivery and marketplace ecosystem |
-| **VROM VROM** | Ride-hailing and delivery platform |
-| **CLEVER CODE** | Drag-and-drop application development platform |
-| **SAVIR TECHNOLOGY** | Digital products and software solutions |
+## 03 — SIGNATURE PRODUCTS
+
+### Turning ambitious ideas into digital ecosystems.
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## GITHUB PERFORMANCE
+<h3>01. ROAQ</h3>
+
+**DELIVERY & MARKETPLACE ECOSYSTEM**
+
+A multi-vendor platform connecting customers, restaurants, stores, and drivers through an integrated digital experience.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02. VROM VROM</h3>
+
+**MOBILITY & LOGISTICS**
+
+A ride-hailing and delivery ecosystem built around live tracking, connected services, and seamless user experiences.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>03. CLEVER CODE</h3>
+
+**APPLICATION DEVELOPMENT PLATFORM**
+
+A vision for simplifying software creation through reusable components, visual builders, and integrated development tools.
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04. SAVIR TECHNOLOGY</h3>
+
+**DIGITAL INNOVATION COMPANY**
+
+The company behind a growing portfolio of software products, business platforms, and technology solutions.
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=savir-technology&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9B58C&text_color=E6EDF3&icon_color=C9B58C&include_all_commits=true" />
+## 04 — GITHUB ANALYTICS
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savir-technology&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9B58C&text_color=E6EDF3" />
+*Engineering activity. Continuous improvement.*
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=savir-technology&theme=dark&hide_border=true&background=0D1117&ring=C9B58C&fire=C9B58C&currStreakLabel=C9B58C" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=savir-technology&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=54217D&text_color=333333&icon_color=F16B32" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savir-technology&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=54217D&text_color=333333" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=savir-technology&hide_border=true&background=FFFFFF&ring=54217D&fire=F16B32&currStreakLabel=54217D&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=777777" />
 
 </div>
 
 ---
 
-## CONNECT & COLLABORATE
-
 <div align="center">
 
-**Let's build something extraordinary.**
+## 05 — THE PHILOSOPHY
 
-<a href="https://savir.site">Official Website</a> ·
-<a href="https://wa.me/201037237626">WhatsApp</a> ·
-<a href="https://github.com/savir-technology">GitHub</a>
+### Think Beyond Limits. Build Beyond Expectations.
+
+I believe great technology starts with a clear vision, grows through disciplined engineering, and succeeds by solving real problems.
+
+**Innovation is not just what we build. It's the impact we create.**
+
+---
+
+## LET'S BUILD THE FUTURE.
+
+<a href="https://savir-technology.com">
+<img src="https://img.shields.io/badge/SAVIR_TECHNOLOGY-Official_Website-54217D?style=for-the-badge" />
+</a>
+
+<a href="https://wa.me/201037237626">
+<img src="https://img.shields.io/badge/LET'S_TALK-WhatsApp-F16B32?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
 <br/><br/>
+
+<img src="https://savir-technology.com/assets/savir-logo-CU8D4NIv.png" width="110" alt="Savir Technology"/>
+
+**ISLAM ASHRAF**
 
 <sub>FOUNDER & CEO · SAVIR TECHNOLOGY</sub>
 
@@ -104,6 +187,6 @@ My work combines software engineering, system architecture, product development,
 
 *Building the Future Through Technology.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9A8055,50:17263D,100:0B1220&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F16B32,50:54217D,100:171044&height=110&section=footer" width="100%" />
 
 </div>
