@@ -1,302 +1,239 @@
 
 <div align="center">
 
-<img src="https://savir-technology.com/assets/savir-logo-CU8D4NIv.png" width="150" alt="Savir Technology"/>
-
-<br/><br/>
-
 # ISLAM ASHRAF
 
-### FOUNDER & CEO
-**SAVIR TECHNOLOGY**
+### SOFTWARE ENGINEER · SYSTEM ARCHITECT · TECHNOLOGY ENTREPRENEUR
+
+**Founder & CEO — Savir Technology**
+
+Building scalable digital ecosystems through engineering, architecture, and innovation.
 
 <br/>
 
-<sub>SOFTWARE ENGINEER &nbsp; ◆ &nbsp; ENTREPRENEUR &nbsp; ◆ &nbsp; SYSTEM ARCHITECT</sub>
+<a href="https://savir-technology.com">OFFICIAL WEBSITE</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/savir-technology">GITHUB</a>
+&nbsp; · &nbsp;
+<a href="https://wa.me/201037237626">CONTACT</a>
 
 <br/><br/>
 
-### ENGINEERING THE FUTURE.
-### BUILDING DIGITAL ECOSYSTEMS.
-
-*Transforming ambitious ideas into scalable technology, intelligent systems, and meaningful digital experiences.*
-
-<br/>
-
-<a href="https://savir-technology.com">
-<img src="https://img.shields.io/badge/01_—_OFFICIAL_WEBSITE-54217D?style=for-the-badge&labelColor=101827"/>
-</a>
-<a href="https://wa.me/201037237626">
-<img src="https://img.shields.io/badge/02_—_CONTACT_ME-F16B32?style=for-the-badge&labelColor=101827"/>
-</a>
-<a href="https://github.com/savir-technology">
-<img src="https://img.shields.io/badge/03_—_GITHUB-C9B58C?style=for-the-badge&labelColor=101827"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:54217D,50:C9B58C,100:F16B32&height=3&section=header" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=savir-technology&style=flat-square&color=64748b)
+![GitHub followers](https://img.shields.io/github/followers/savir-technology?style=flat-square&color=64748b)
 
 </div>
 
 ---
 
-<div align="center">
+## 01. ENGINEERING PROFILE
 
-## I. THE EXECUTIVE PROFILE
+I am **Islam Ashraf**, a software engineer and technology entrepreneur focused on designing and building complete digital products.
 
-### More Than a Developer. A Builder of Ideas.
+My engineering approach combines application development, backend architecture, database engineering, and business-oriented system design.
 
-</div>
+Rather than treating software as isolated features, I focus on building interconnected systems with clear responsibilities, maintainable architecture, and room for future growth.
 
-I'm **Islam Ashraf**, Founder & CEO of **Savir Technology**.
+### Engineering Focus
 
-I am a technology entrepreneur and software engineer driven by a passion for creating technology that makes a difference.
-
-My approach goes beyond writing code. I focus on understanding business challenges, designing intelligent architectures, and building complete digital ecosystems that connect people, businesses, and technology.
-
-I believe that exceptional products are born when three disciplines come together:
-
-| DISCIPLINE | PURPOSE |
-|:---|:---|
-| **Business Vision** | Identify opportunities and solve real problems. |
-| **Engineering Excellence** | Transform ideas into reliable software systems. |
-| **Product Innovation** | Create experiences that deliver lasting value. |
+| DOMAIN | ENGINEERING SCOPE |
+|---|---|
+| Application Engineering | Flutter, Dart, React |
+| Backend Engineering | PHP, REST APIs |
+| Database Engineering | MySQL, Data Modeling |
+| Cloud Services | Firebase |
+| System Architecture | Modular & Multi-service Systems |
+| Integrations | Payment, Maps, Notifications |
 
 ---
 
-<div align="center">
+## 02. SYSTEM ARCHITECTURE
 
-## II. THE ENGINEERING DNA
+### Digital Product Engineering Lifecycle
 
-### Technologies. Architecture. Execution.
+```mermaid
+flowchart TB
+    A["BUSINESS VISION"] --> B["PRODUCT REQUIREMENTS"]
+    B --> C["SYSTEM ARCHITECTURE"]
+    C --> D["APPLICATION ENGINEERING"]
+    C --> E["BACKEND ENGINEERING"]
+    C --> F["DATABASE DESIGN"]
+    D --> G["INTEGRATION LAYER"]
+    E --> G
+    F --> G
+    G --> H["TESTING & DEPLOYMENT"]
+    H --> I["SCALABLE DIGITAL PRODUCT"]
 
-*The technical foundation behind my digital products.*
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,firebase,react,js,html,css,git,github,vscode&theme=dark&perline=6"/>
-
-</div>
-
-### Core Engineering Domains
-
-**01 — Application Engineering**
-- Cross-platform mobile development.
-- Flutter application architecture.
-- Responsive web applications.
-- State management and application design.
-
-**02 — Backend & Infrastructure**
-- PHP backend engineering.
-- REST API development.
-- Authentication and authorization.
-- Independent service architecture.
-- Business logic and integrations.
-
-**03 — Database Engineering**
-- MySQL database architecture.
-- Relational data modeling.
-- Query optimization.
-- Data integrity and scalability.
-
-**04 — Cloud & Integrations**
-- Firebase services.
-- Push notifications.
-- Paymob payment integration.
-- Mapbox and location services.
-- Third-party API integrations.
-
----
-
-<div align="center">
-
-## III. SIGNATURE PRODUCTS
-
-### From Vision to Digital Reality.
-
-*Selected products and technology initiatives.*
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>01. ROAQ</h3>
-
-**DELIVERY & MARKETPLACE**
-
-A comprehensive multi-vendor digital ecosystem connecting customers, restaurants, stores, and drivers.
-
-**Product Architecture**
-- Customer application.
-- Driver application.
-- Vendor management dashboard.
-- Multi-store operations.
-- Order management and tracking.
-- Integrated communication.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>02. VROM VROM</h3>
-
-**MOBILITY & LOGISTICS**
-
-A premium mobility and delivery platform designed around connected services and live experiences.
-
-**Product Architecture**
-- Customer application.
-- Driver application.
-- Independent PHP backends.
-- Shared MySQL database.
-- Live location tracking.
-- Central administration.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>03. CLEVER CODE</h3>
-
-**VISUAL DEVELOPMENT PLATFORM**
-
-A development platform concept inspired by the idea of making application creation more flexible and accessible.
-
-**Product Vision**
-- Drag-and-drop builders.
-- Reusable UI components.
-- Backend templates.
-- Database templates.
-- Integrated development workflows.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>04. SAVIR TECHNOLOGY</h3>
-
-**DIGITAL INNOVATION**
-
-The technology company focused on building software products and integrated business solutions.
-
-**Core Focus**
-- Custom software development.
-- Digital transformation.
-- Business automation.
-- Application engineering.
-- Digital product innovation.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## IV. SYSTEM ARCHITECTURE
-
-### I Think in Systems, Not Isolated Features.
-
-</div>
-
-My engineering philosophy is centered around building complete products with clear responsibilities, maintainable codebases, and scalable foundations.
-
-```text
-                 BUSINESS VISION
-                       |
-                       v
-                 PRODUCT DESIGN
-                       |
-                       v
-                 SYSTEM ARCHITECTURE
-                       |
-          +------------+------------+
-          |            |            |
-          v            v            v
-       FLUTTER         PHP         MYSQL
-       FRONTEND      BACKEND      DATABASE
-          |            |            |
-          +------------+------------+
-                       |
-                       v
-                CLOUD & SERVICES
-                       |
-                       v
-               EXTERNAL INTEGRATIONS
-                       |
-                       v
-               COMPLETE DIGITAL PRODUCT
+    classDef primary fill:#17263D,stroke:#C9B58C,color:#fff
+    classDef secondary fill:#29213B,stroke:#8D75B5,color:#fff
+    class A,B,C,I primary
+    class D,E,F,G,H secondary
 ```
 
+### Engineering Principles
+
+- Separation of concerns.
+- Maintainable code organization.
+- Secure API communication.
+- Relational database integrity.
+- Scalable service architecture.
+- Reliable third-party integrations.
+
 ---
+
+## 03. TECHNOLOGY ARCHITECTURE
 
 <div align="center">
 
-## V. GITHUB ENGINEERING INSIGHTS
+### Technology Stack
 
-### Consistency. Contribution. Continuous Growth.
+<img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,firebase,react,js,html,css,git,github,vscode&theme=dark&perline=6" />
 
-<br/>
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=savir-technology&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9B58C&text_color=E6EDF3&icon_color=F16B32&include_all_commits=true"/>
+### Application Layer
+
+- Flutter & Dart
+- React
+- Responsive interfaces
+- Cross-platform development
+
+### Backend Layer
+
+- PHP
+- RESTful API architecture
+- Authentication and authorization
+- Business logic and integrations
+
+### Data Layer
+
+- MySQL
+- Relational database design
+- Query optimization
+- Data modeling
+
+### Infrastructure & Integrations
+
+- Firebase
+- Paymob
+- Mapbox
+- Push notifications
+- External APIs
+
+---
+
+## 04. SIGNATURE ENGINEERING PROJECTS
+
+### ROAQ — Multi-Vendor Delivery Ecosystem
+
+An integrated delivery and marketplace platform connecting customers, vendors, restaurants, and drivers.
+
+**System Components**
+
+```mermaid
+flowchart TB
+    U["Customer App"] --> API["Backend APIs"]
+    D["Driver App"] --> API
+    V["Vendor Dashboard"] --> API
+    API --> DB[("MySQL Database")]
+    API --> MAP["Maps & Tracking"]
+    API --> NOT["Notifications"]
+    API --> CHAT["Communication Services"]
+```
+
+**Engineering Focus:** Multi-vendor operations, order lifecycle, driver assignment, live tracking, and business management.
+
+---
+
+### VROM VROM — Mobility & Logistics
+
+A ride-hailing and delivery platform designed around independent application services.
+
+**Backend Architecture**
+
+```mermaid
+flowchart TB
+    C["Customer Application"] --> CB["Customer PHP Backend"]
+    D["Driver Application"] --> DB["Driver PHP Backend"]
+    A["Admin Dashboard"] --> AB["Admin PHP Backend"]
+
+    CB --> SHARED[("Shared MySQL Database")]
+    DB --> SHARED
+    AB --> SHARED
+```
+
+**Engineering Focus:** Independent backend deployments, shared database architecture, live tracking, and operational isolation.
+
+---
+
+### CLEVER CODE — Visual Development Platform
+
+A platform concept for creating applications using reusable components and development templates.
+
+**Product Architecture**
+
+```mermaid
+flowchart TB
+    U["Visual Builder"] --> W["Widget Library"]
+    U --> F["Frontend Templates"]
+    U --> B["Backend Templates"]
+    U --> D["Database Templates"]
+
+    W --> P["Application Project"]
+    F --> P
+    B --> P
+    D --> P
+```
+
+**Engineering Focus:** Component reuse, visual development, application architecture, and development productivity.
+
+---
+
+## 05. GITHUB ENGINEERING ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=savir-technology&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9B58C&text_color=E6EDF3&icon_color=8D75B5"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savir-technology&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9B58C&text_color=E6EDF3"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=savir-technology&hide_border=true&background=0D1117&ring=C9B58C&fire=F16B32&currStreakLabel=C9B58C&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=savir-technology&hide_border=true&background=0D1117&ring=C9B58C&fire=8D75B5&currStreakLabel=C9B58C"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 06. ENGINEERING ROADMAP
 
-## VI. THE VISION
-
-### Technology Is the Tool. Impact Is the Goal.
-
-I believe the future belongs to those who can connect creativity with engineering, and vision with execution.
-
-My ambition is to build technology products that simplify complex operations, empower businesses, and create meaningful opportunities.
-
-**Think Bigger. Build Smarter. Create Lasting Impact.**
+| AREA | DIRECTION |
+|---|---|
+| Software Architecture | Advanced modular systems |
+| Backend Engineering | Independent service architecture |
+| Application Development | Reusable application components |
+| Real-time Systems | Live tracking and communication |
+| Cloud Integrations | Connected digital services |
+| Product Engineering | Scalable business ecosystems |
 
 ---
 
-## VII. LET'S CONNECT
+## 07. PROFESSIONAL CONNECT
 
-### Every Great Collaboration Starts With a Conversation.
+<div align="center">
+
+**Engineering ideas into reliable digital products.**
+
+[Official Website](https://savir-technology.com) ·
+[GitHub](https://github.com/savir-technology) ·
+[WhatsApp](https://wa.me/201037237626)
 
 <br/>
 
-<a href="https://savir-technology.com">
-<img src="https://img.shields.io/badge/VISIT_SAVIR_TECHNOLOGY-C9B58C?style=for-the-badge&labelColor=101827"/>
-</a>
+**ISLAM ASHRAF**
 
-<a href="https://wa.me/201037237626">
-<img src="https://img.shields.io/badge/WHATSAPP-F16B32?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101827"/>
-</a>
+Founder & CEO — Savir Technology
 
-<a href="https://github.com/savir-technology">
-<img src="https://img.shields.io/badge/GITHUB-54217D?style=for-the-badge&logo=github&logoColor=white&labelColor=101827"/>
-</a>
-
-<br/><br/>
-
-<img src="https://savir-technology.com/assets/savir-logo-CU8D4NIv.png" width="105" alt="Savir Technology Logo"/>
-
-### ISLAM ASHRAF
-
-**FOUNDER & CEO — SAVIR TECHNOLOGY**
-
-<sub>BUILDING IDEAS. ENGINEERING SOLUTIONS. CREATING IMPACT.</sub>
-
-<br/><br/>
-
-<sub>© ISLAM ASHRAF · SAVIR TECHNOLOGY</sub>
+<sub>ENGINEERING · ARCHITECTURE · INNOVATION</sub>
 
 </div>
